@@ -1,0 +1,17 @@
+{
+  "name": "export-table-to-csv",
+  "main": "export-table-to-csv.js",
+  "version": "1.0.1",
+  "homepage": "https://github.com/manugarciaes/Export-Table-to-CSV",
+  "authors": [
+    "Manu Garcia"
+  ],
+  "description": "Export a html table to csv using javascript",
+  "keywords": [
+    "csv", "javascript", "excel", "table", "html", "table to csv", "javascript csv", "html to csv"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": ">= 1.8.3"
+  }
+}
