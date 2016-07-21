@@ -24,12 +24,13 @@
     </tbody>
 </table>   
     
-<script>
-
-    $(function () {
+```javascript    
+    <script>
     
-        exportTableToCsv.init($('#export-table'), 'csv-name.csv');
-    
-    });
-    
-</script>
+        $(function () {
+        
+            exportTableToCsv.init($('#export-table'), 'csv-name.csv');
+        
+        });
+        
+    </script>
