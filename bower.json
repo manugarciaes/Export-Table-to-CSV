@@ -8,10 +8,29 @@
   ],
   "description": "Export a html table to csv using javascript",
   "keywords": [
-    "csv", "javascript", "excel", "table", "html", "table to csv", "javascript csv", "html to csv"
+    "csv",
+    "javascript",
+    "excel",
+    "table",
+    "html",
+    "table",
+    "to",
+    "csv",
+    "javascript",
+    "csv",
+    "html",
+    "to",
+    "csv"
   ],
   "license": "MIT",
   "dependencies": {
     "jquery": ">= 1.8.3"
-  }
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
